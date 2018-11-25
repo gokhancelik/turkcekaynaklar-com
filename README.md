@@ -268,7 +268,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 
 ### Ionic
- [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://link.medium.com/yuXFmN4Y8R) [Gökhan Çelik] (https://github.com/gokhancelik)
+- [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://link.medium.com/yuXFmN4Y8R) [Gökhan Çelik] (https://github.com/gokhancelik)
  
 
 ### Java
